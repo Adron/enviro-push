@@ -30,5 +30,11 @@
   "bugs": {
     "url": "https://github.com/Adron/enviro-push/issues"
   },
-  "homepage": "https://github.com/Adron/enviro-push"
+  "homepage": "https://github.com/Adron/enviro-push",
+  "dependencies": {
+    "commander": "^2.5.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.0.1"
+  }
 }

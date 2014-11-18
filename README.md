@@ -5,6 +5,7 @@ A Node.js CLI Project for pushing environment variables from X point to AWS Bean
 
 
 **Libraries & Links**
-https://www.npmjs.org/package/commander
-http://tj.github.io/commander.js/
-https://github.com/tj/node-progress
+
+* https://www.npmjs.org/package/commander
+* http://tj.github.io/commander.js/
+* https://github.com/tj/node-progress
